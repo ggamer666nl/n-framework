@@ -5,3 +5,5 @@ note: some features might not work
 
 
 (an update comming soon!)
+
+(note: this is no longer being worked on)
